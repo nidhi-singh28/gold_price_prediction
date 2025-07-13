@@ -12,5 +12,5 @@ The dataset contains two columns:
 
 Here is a sample plot showing the actual vs predicted gold prices:
 
-![Prediction Plot](prediction_plot.jpg)
+![Prediction Plot](Prediction_Plot.jpg)
 
